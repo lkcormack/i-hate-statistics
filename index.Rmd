@@ -14,4 +14,8 @@ description: "This book describes why I hate traditional statistics, and what I 
 
 # Preface {-}
 
-When I was first introduced to statistics-as-practiced-in-psychology as an undergraduate, I didn't really hate it, I just thought it was — well — stupid.
+When I was first introduced to statistics-as-practiced-in-psychology in an Experimental Methods class at the University of Florida, I didn't really hate it, I just thought it was — well — stupid. I grew up around scientists — most of my father's friends were "hard" scientists, and I volunteered over summers in a field ion microscopy lab since the 5th grade — and I knew that scientists did **NOT** put their data in a magic box that produced a binary output of "significant" or "not significant". Fortunately, I worked as an RA in the lab of Keith White, and was from the tradition of plotting data and testing theories rather than "testing" data to see if they were "significant" or not. Keith suggested I take the two semester sequence in Mathematical Statistics rather than the normal statistics sequence out of Psychology, which I did. I rather enjoyed it; it was mostly proving theorems and emphasized the calculation of probabilities (as opposed to "critical values").
+
+I truly learned to hate statistics during my gap year at Vanderbilt University. 
+
+
