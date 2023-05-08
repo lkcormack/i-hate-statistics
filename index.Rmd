@@ -24,4 +24,17 @@ At Berkeley, first year student were required to take a course called "biostatis
 
 After 5 wonderful years at Berkeley, I landed a job at The University of Texas at Austin and, as fate would have it, I was immediately tasked with teaching — you guessed it — statistics. The course was actually called "Experimental Psychology", so I began to review "Experimental Psychology" textbooks. I was, frankly, shocked. There were chapters on "Scales of Measurement" yet not a peep about fitting curves to data. There were cautions that "correlation does not imply causation" but no mention that no other statisical "test" does either. I ended up not using a textbook; I made the students buy Strunk & White [-@strunk] and the APA Publication Manual [-@apaman] to cover the writing, and I covered all the data analysis using notes and handouts.
 
+Happily, I soon discovered that I was not alone; there were like-minded souls around, such as Geoff Loftus at Washington, who gave a talk at UT not long after I got here. See [@loftus1996] for a nice treatment of some of the same issues I rant about here.
+
+In the last 3 decades, as it turns out, many people have declared their hatred for statistics (though not in those terms). Special issues have been devoted to debating the way statistics is (are?) practiced, books have been written on the matter, and the American Statistical Association has come out against the traditional way of doing things.
+
+So why this rant? It's because the ways of old still linger...
+
+- obviously, there is a huge amount literature produced using them
+- many (most?) researchers in psychology and other fields still use them
+- every student I've ever had that has either taken statistics in high school or taken it at another college or university has been indoctrinated into them
+
+It's time for this to stop! I hate statistics, and you can too!
+
+
 `r if (knitr::is_html_output()) '# References {-}'`
