@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 #site: bookdown::bookdown_site
 output: bookdown::html
 documentclass: book
-bibliography: [book.bib, packages.bib]
+bibliography: book.bib
 biblio-style: apalike
 link-citations: yes
 github-repo: rstudio/i-hate-statistics
@@ -14,10 +14,14 @@ description: "This book describes why I hate traditional statistics, and what I 
 
 # Preface {-}
 
-When I was first introduced to statistics-as-practiced-in-psychology in an Experimental Methods class at the University of Florida, I didn't really hate it, I just thought it was — well — stupid. I grew up around scientists — most of my father's friends were "hard" scientists, and I volunteered over summers in a field ion microscopy lab since the 5th grade — and I knew that scientists did **NOT** put their data in a magic box that produced a binary output of "significant" or "not significant". Fortunately, I worked as an RA in the lab of Keith White, and was from the tradition of plotting data and testing theories rather than "testing" data to see if they were "significant" or not. Keith suggested I take the two semester sequence in Mathematical Statistics rather than the normal statistics sequence out of Psychology, which I did. I rather enjoyed it; it was mostly proving theorems and emphasized the calculation of probabilities (as opposed to "critical values").
+When I was first introduced to statistics-as-practiced-in-psychology in an Experimental Methods class at the University of Florida, I didn't really hate it, I just thought it was — well — stupid. I grew up around scientists — most of my father's friends were "hard" scientists, and I volunteered over summers in a field ion microscopy lab since the 5th grade — and I knew that scientists did **NOT** put their data in a magic box that produced a binary output of "significant" or "not significant". Fortunately, I worked as an RA in the lab of Keith White, and he was from the tradition of plotting data and using them to evaluate theoretical predictions rather than "testing" data to see if they were "significant" or not. Keith suggested I take the two semester sequence in Mathematical Statistics rather than the normal statistics sequence out of Psychology, which I did. I rather enjoyed it but, as I recall, we mostly just proved theorems and such.
 
 I truly learned to hate statistics during my gap year at Vanderbilt University. We did a simple experiment to test two competing theories, one predicted a positive relationship between two variables, while the other predicted no relationship. The data were very clean, and clearly showed no relationship, which pleased me because this is what I had predicted before the experiment. I showed a graduate student the results and they began saying blah blah blah you can't prove the null blah blah negative result blah blah. I said we weren't trying to "prove the null", but the data clearly supported one theory over the other. They said something like "your experiment didn't work, it's a negative result, it's just that simple." I asked "Then what about the Michelson-Morely experiment? That was a negative result." They thought about it a moment and said "That's an exception."
 
-I t
+I thought that, surely, when the PI got in an saw the data, they would see it my way and be equally excited. But, nope, they echoed all the points that the graduate student had made and it just baffled me. I went to Berkeley for graduate school.
+
+At Berkeley, first year student were required to take a course called "biostatistics". I asked for an exemption because of my heavy math background and it was granted. I was thankful because I *really* didn't want to take a stats course that I knew I would think was stupid and a waste of time while also trying to learn a whole bunch of anatomy (in which I had never had a single class) for the course I was TAing. Because the field I was gravitating towards, low level vision science, didn't rely on "statistics" as such, I thought I was free from them (it?) forever.
+
+After 5 wonderful years at Berkeley, I landed a job at The University of Texas at Austin and, as fate would have it, I was immediately tasked with teaching — you guessed it — statistics. The course was actually called "Experimental Psychology", so I began to review "Experimental Psychology" textbooks. I was, frankly, shocked. There were chapters on "Scales of Measurement" yet not a peep about fitting curves to data. There were cautions that "correlation does not imply causation" but no mention that no other statisical "test" does either. I ended up not using a textbook; I made the students buy Strunk & White [-@strunk] and the APA Publication Manual to cover the writing, and I covered all the data analysis using notes and handouts.
 
 
