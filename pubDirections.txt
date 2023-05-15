@@ -14,7 +14,7 @@ rsconnect::writeManifest(appPrimaryDoc = "index.html", contentCategory = "site")
 
 Copy the folder and change its name to "LeBook" or something (_book is in my gitignore)
 
-Push to GitHub.
+Push to GitHub. Copy your GitHub url
 
 Go to bookdown / content
 hit import from git
