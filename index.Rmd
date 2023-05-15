@@ -9,7 +9,7 @@ bibliography: book.bib
 biblio-style: apalike
 link-citations: yes
 github-repo: /Users/lkc3-admin/Documents/GitHub/i-hate-statistics
-url: https://bookdown.org/cormack/i-hate-statistics
+url: https://bookdown.org/cormack/i-hate-statistics-1684118437118/
 description: "This book describes why I hate traditional statistics, and what I think should be done about it."
 ---
 

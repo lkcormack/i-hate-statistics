@@ -1,0 +1,24 @@
+Note on publishing -
+I FINALLY FIGURED A WORKFLOW TO BOOKDOWN!
+
+Index should have this:
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+
+Build the book.
+
+setwd() in to the ./_book folder
+
+Make a manifest.json file (don't ask)
+rsconnect::writeManifest(appPrimaryDoc = "index.html", contentCategory = "site")
+
+Copy the folder and change its name to "LeBook" or something (_book is in my gitignore)
+
+Push to GitHub.
+
+Go to bookdown / content
+hit import from git
+paste the repo url
+pick the "LeBook" folder
+
+That should work!!!
