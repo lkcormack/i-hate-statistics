@@ -4,9 +4,9 @@
   "platform": "4.1.2",
   "metadata": {
     "appmode": "rmd-static",
-    "primary_rmd": "index.Rmd",
+    "primary_rmd": "index.html",
     "primary_html": null,
-    "content_category": null,
+    "content_category": "site",
     "has_parameters": false
   },
   "packages": {
