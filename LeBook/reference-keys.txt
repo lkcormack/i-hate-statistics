@@ -1,7 +1,9 @@
 intro
-literature
+signif
 words
-applications
-example-one
-example-two
-final-words
+significant
+critical
+error
+confidence-interval
+null
+concl

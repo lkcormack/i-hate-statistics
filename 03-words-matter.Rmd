@@ -1,3 +1,21 @@
 # Words Matter {#words}
 
+## "significant"
+
+Almost anything else would have been better:
 Intriguing. Curious. Interesting.
+
+## "critical"
+
+Again, almost anything else would have been better:
+Threshold. Limen. Cut-off. Decision boundary. 
+
+## "error"
+
+We throw that term around a lot, but we have to realize that it's confusing to students. Perhaps using "noise" in general would be better.
+
+## confidence interval
+
+This one is interesting. Given the way in which pedantic statistics teachers use it (which is technically correct), it's just stupid and wrong.
+
+But why not teach students what they technically mean, but also allow them to be interpreted as, you know, *confidence* intervals? Here's what I mean:
