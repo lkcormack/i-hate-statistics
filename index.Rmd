@@ -2,13 +2,14 @@
 title: "I Hate Statistics (and you can too)"
 author: "Lawrence K. Cormack"
 date: "`r Sys.Date()`"
-#site: bookdown::bookdown_site
-output: bookdown::html
+site: bookdown::bookdown_site
+output: bookdown::gitbook
 documentclass: book
 bibliography: book.bib
 biblio-style: apalike
 link-citations: yes
-github-repo: rstudio/i-hate-statistics
+github-repo: /Users/lkc3-admin/Documents/GitHub/i-hate-statistics
+url: https://bookdown.org/cormack/i-hate-statistics
 description: "This book describes why I hate traditional statistics, and what I think should be done about it."
 ---
 

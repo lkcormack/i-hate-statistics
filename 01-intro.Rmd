@@ -1,5 +1,11 @@
 # Introduction {#intro}
 
-In 192x, a very influential book was published. The book was ... by Ronald A. Fischer; it was a "cookbook" with recipes for analyzing data.
+In 1925, a very influential book was published. The book was "Statistical Methods for Research Workers" by Ronald A. Fisher [-@fisher]; it was a "cookbook" with recipes for analyzing data. There were only certain fields in those days, such as astronomy, in which the workers in the field were also accomplished mathematicians who understood probability theory and were able to compute probability estimates themselves. In fact, "statistics" in the 19th and early 20th century was mainly associated with quantifying properties of the state (hence the name) such as population and birth rate.
 
-Intriguing. Curious. Interesting.
+The early and now-famous statisticians such as Pearson and Student (Gossett) published tables of pre-computed probabilities so that their theories could be more easily put into practice [@pearson1900, @student1908]. Unfortunately, the average worker at an agricultural research station probably didn't spend their evenings reading journals such as "Biometrika"; even if they tried, the shear volume of complex equations in the papers might have put many practical researchers off.
+
+Fisher's book changed all that. It provided clear examples of data analysis for various common situations without presenting any derivations or proofs. It also provided tables for looking up approximate probabilities for common experimental situations. It was probably the first "textbook" on statistics as we know it today.
+
+Unfortunately, it is human nature to treat things they don't understand that come from authority figures and that other people think are right as dogma. This, combined with some poor and seemingly offhand choices in the book lead to disastrous consequencesruined psychology for generations.
+
+I hate it.
