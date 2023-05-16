@@ -2,7 +2,9 @@
 
 ## "significant"
 
-Okay, first, as discussed in the last chapter, the fact that we use the word "significant" to describe a probability that is over some completely arbitrary criterion is bullshit. It makes no sense. It's just stupid. But our use of word "significant" to mean "unlikely if chance alone were operating" is perverse. Why? Because everybody coming in to a statistics class already "knows" what the word "significant" means!
+Okay, first, as discussed in the last chapter, the fact that we give a label to a probability that is over some completely arbitrary criterion is bullshit. It makes no sense. It's just stupid. 
+
+But even our use of the word "significant" to technically mean "unlikely if chance alone were operating" is perverse. Why? Because everybody coming in to a statistics class already "knows" what the word "significant" means!
 
 I listen to the news (via podcasts, NPR, etc.), and reporters are constantly using the word "significant" as in, "We have a significant development in this story today..." I also --- and I hate to admit this --- have a guilty pleasure of watching "true crime" shows. As a result, I know that both law enforcement and the press use the word "significant" SO OFTEN --- as in, "There has been a significant development in the case today..." This is how students in a statistics course know the word! It means "important", "substantial", "crucial", "consequential", etc. So how are we supposed to tell them that, in this context, "yeah, no, it doesn't mean any of that" and have it really sink in? Further, how are we supposed to educate the press about this subtle word distinction if a high-profile paper grabs their attention?
 

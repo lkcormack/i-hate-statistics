@@ -1,3 +1,5 @@
-# Significance {#signif}
+# Significance Testing {#signif}
 
-What did you think when you saw this chapter title? 
+Sometime between 1900 and 1908, the word "significant" and the concept of "significance testing" seem to have come in common use among statisticians. I say this because in the two very influential papers published in those years, Pearson [-@pearson1900] never mentions it, while Gossett (Student) [-@student1908] uses "significance" early in his paper with no introduction or definition.
+
+

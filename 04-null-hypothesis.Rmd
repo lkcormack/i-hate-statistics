@@ -2,4 +2,11 @@
 
 Okay, I'm so damn sick of hearing "you can't prove the null" I think I'll cry the next time I read it somewhere else. It often followed by something like "you can only fail to reject the null." While this is true in philosophy class, and *technically* True with a capital T in statistics...
 
-We **can** prove the null **for all practical intents and purposes**. We just can. And we do. If we didn't, science would proceed at a much slower pace.
+We **can** prove the null **for all practical intents and purposes**. 
+
+We just can. 
+
+And we do. 
+
+If we didn't, science would proceed at a much slower pace.
+

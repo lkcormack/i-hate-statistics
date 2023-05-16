@@ -6,6 +6,6 @@ The early and now-famous statisticians such as Pearson and Student (Gossett) pub
 
 Fisher's book changed all that. It provided clear examples of data analysis for various common situations without presenting any derivations or proofs. It also provided tables for looking up approximate probabilities for common experimental situations. It was probably the first "textbook" on statistics as we know it today.
 
-Unfortunately, it is human nature to treat things they don't understand that come from authority figures and that other people think are right as dogma. This, combined with some poor and seemingly offhand choices in the book lead to disastrous consequencesruined psychology for generations.
+Unfortunately, it is human nature to treat things they don't understand that come from authority figures and that other people think are right as dogma. This, combined with some poor and seemingly offhand choices in the book lead to disastrous consequences, and ruined psychology for generations.
 
 I hate it.
