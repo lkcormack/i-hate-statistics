@@ -1,5 +1,7 @@
 # Significance Testing {#signif}
 
+The main reason I HATE statistics is because I hate the procedure called "null hypothesis significance testing" (NHST). In many areas of psychology, and most statistics textbooks for psychology students, "statistics" and NHST are one and the same. Hence "I hate **"statistics"**. 
+
 Sometime between 1900 and 1908, the word "significant" and the concept of "significance testing" seem to have come in common use among statisticians. I say this because in the two very influential papers published in those years, Pearson [-@pearson1900] never mentions it, while Gossett (Student) [-@student1908] uses "significance" early in his paper with no introduction or definition.
 
 
