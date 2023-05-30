@@ -4,7 +4,7 @@ The main reason I HATE statistics is because I hate the procedure called "null h
 
 Sometime between 1900 and 1908, the word "significant" and the concept of "significance testing" seem to have come in common use among statisticians. I say this because in the two very influential papers published in those years, Pearson [-@pearson1900] never mentions it, while Gossett (Student) [-@student1908], just 8 years later, uses "significance" early in his paper with no introduction or definition.
 
-TheN, as discussed in the previous chapter, Sir Ronald Fisher published a textbook that brought statistics to the masses [@fisher]. It summarized and gave examples of an easy to follow recipe for analyzing data, which goes something like this:
+Then, as discussed in the previous chapter, Sir Ronald Fisher published a textbook that brought statistics to the masses [@fisher]. It summarized and gave examples of an easy to follow recipe for analyzing data, which goes something like this:
 
 * All data are to be compared to a "null hypothesis", which is something like
     - my groups of data are all really the same, or
@@ -16,5 +16,7 @@ TheN, as discussed in the previous chapter, Sir Ronald Fisher published a textbo
 Simple, right! And so straightforward! Now if I'm some mid-level government official in the health department tasked with seeing if malaria cases have increased this year over last, I need to fret about what is a "real" increase vs. normal year to year variability. I need not concern myself with wasting a sheet of graph paper plotting the data, etc. I just have to follow the recipe, and it will **decisively** if there has been a ***significant*** increase in malaria this year!
 
 The only trouble with this is... ***IT'S STUPID!*** 
+
+In Fisher's [-@fisher] own words "We shall not often be astray if we draw a conventional line at .05, and consider that higher values of $\chi^2$ to indicate a real discrepancy." And, later, 
 
 This is nothing against Fisher. There is no way that he could have possibly imagined the stupidity unleashed by what was meant to be a simple practical field guide to analyzing data.
